@@ -6,7 +6,7 @@
     "react",
     "starter"
   ],
-  "main": "src/index.js",
+  "main": "./index.js",
   "dependencies": {
     "@donkeyclip/react": "1.2.1",
     "@emotion/react": "11.10.6",
